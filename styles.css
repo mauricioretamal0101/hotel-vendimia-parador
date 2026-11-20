@@ -7,3 +7,6 @@
 /* Ajustes visuales Parador */
 .brand-symbol{font-style:normal;font-size:32px}.hero{min-height:665px}.hero-content{max-width:840px}.hero:before{background:linear-gradient(90deg,rgba(20,30,22,.79),rgba(23,33,26,.38) 74%,rgba(25,31,22,.19))}.hero .hero-bg{object-position:center center}.intro-images:after{border-color:#a99062}.property-ribbon{font-size:.85rem;text-transform:uppercase;letter-spacing:.13em;color:var(--gold);display:flex;align-items:center;gap:14px}.property-ribbon:before{content:'';width:44px;height:2px;background:var(--gold)}.logo-original{width:190px;height:155px;object-fit:contain;margin:0 auto 20px;mix-blend-mode:multiply}.logo-original-block{text-align:center;background:#fff;border:1px solid var(--line);padding:25px 15px}.notice-warning{border-color:var(--gold)}.facility:nth-child(1){grid-row:span 1}
 @media(max-width:770px){.logo-original{height:130px}}
+
+/* Marca original del hotel en la cabecera */
+.brand-mark{display:block;width:84px;height:76px;object-fit:contain;flex:none;background:#fff}.brand-copy strong{color:var(--wine)}.nav-wrap{min-height:97px}@media(max-width:1050px){.brand-mark{width:67px;height:66px}}@media(max-width:770px){.nav-wrap{min-height:78px}.brand-mark{width:66px;height:60px}}@media(max-width:520px){.brand-mark{width:52px;height:54px}.brand-copy strong{font-size:1.04rem}}
